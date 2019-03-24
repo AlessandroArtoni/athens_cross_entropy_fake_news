@@ -1,0 +1,2 @@
+# athens_cross_entropy_fake_news
+This is the repository of the project done at Telecom PartisTech, from complexity to Intelligence during the Athens Week
